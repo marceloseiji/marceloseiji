@@ -9,7 +9,7 @@
 ![css3](https://img.shields.io/static/v1?logo=css3&label=&message=Css&color=111&logoColor=eb6d13&style=flat)
 
 <div>
-  <a href="https://github.com/marceloseiji/github-readme-stats">
+  <a href="https://github.com/marceloseiji">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=marceloseiji&theme=tokyonight&hide=contribs&show_icons=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceloseiji&layout=compact&theme=tokyonight" />
   </a>
