@@ -8,9 +8,11 @@
 ![html5](https://img.shields.io/static/v1?logo=html5&label=&message=Html&color=111&logoColor=eb3013&style=flat)
 ![css3](https://img.shields.io/static/v1?logo=css3&label=&message=Css&color=111&logoColor=eb6d13&style=flat)
 
+<div>
 <a href="https://github.com/marceloseiji/github-readme-stats">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/?username=marceloseiji&repo=github-readme-stats&theme=tokyonight&hide=contribs" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/?username=marceloseiji&repo=github-readme-stats&theme=tokyonight&hide=contribs&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/marceloseiji/convoychat">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceloseiji&layout=compact&theme=tokyonight" />
 </a>
+</div>
