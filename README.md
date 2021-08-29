@@ -1,5 +1,5 @@
 ### HelloOo!
-#### My name is Marcelo Seiji i'm a front-end developer
+#### My name is Marcelo Seiji and i'm a front-end developer
 ##### I like to create systems with functional and reusable components.
 
 ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=111&logoColor=ebe013&style=flat)
