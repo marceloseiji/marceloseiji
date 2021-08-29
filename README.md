@@ -12,5 +12,4 @@
   <a href="https://github.com/marceloseiji">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=marceloseiji&theme=tokyonight&hide=contribs&show_icons=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceloseiji&layout=compact&theme=tokyonight" />
-  </a>
 </div>
