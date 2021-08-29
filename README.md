@@ -10,6 +10,6 @@
 
 <div>
   <a href="https://github.com/marceloseiji">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=marceloseiji&theme=tokyonight&hide=contribs&show_icons=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceloseiji&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=marceloseiji&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceloseiji&layout=compact&theme=tokyonight"/>
 </div>
